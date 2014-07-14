@@ -1,4 +1,4 @@
-package com.highfour.size-matters-client;
+package com.highfour.size_matters_client;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
